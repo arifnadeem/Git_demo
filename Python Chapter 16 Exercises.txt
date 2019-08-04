@@ -1,0 +1,20 @@
+append
+nums.append(1)
+pets.append("cat")
+stars.append("sun")
+x = x + [5]
+oceans.append("Indian Ocean")
+cities = cities + ["Dubuque", "New Orleans"]
+nums.insert(0, 5)
+fruits.insert(2, "Grapes")
+longer_list = original_list + [7, 11]
+
+weekdays = ["Mon", "Tue", "Wed", "Thu", "Fri"]
+
+fifth_weekday = "friday"
+
+print(fifth_weekday)
+
+num = [1, 2, 3]
+
+print(num)
